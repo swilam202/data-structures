@@ -30,7 +30,7 @@ void printNumber(int n) {
 }
 
 int main(int argc, const char *argv[]) {
-  int x = 5; 
+  int x = 5;
   printNumber(x);
   printf("\n");
 

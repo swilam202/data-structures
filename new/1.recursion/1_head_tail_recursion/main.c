@@ -14,6 +14,10 @@
 //  if we don't have a base case the recursion will continue until it crashes
 //  eg stack overflow
 
+// also the meaning of tail is when the recursive call is the last operation in the function
+// and the head is when the recursive call is the first operation in the function
+
+
 //  the idea of this code is to print the numbers from 5 to 1
 //  the base case is when n becomes 0
 //  so it loops and creates a copy of itself until n becomes 0 (base case)
